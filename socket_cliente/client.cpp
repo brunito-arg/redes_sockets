@@ -30,7 +30,7 @@ public:
         server = socket(AF_INET, SOCK_STREAM, 0);
 
         // Configura la dirección IP y el puerto del servidor al que se conectará el cliente.
-        direccionServer.sin_addr.s_addr = inet_addr("192.168.0.135"); // dirección IP del servidor
+        direccionServer.sin_addr.s_addr = inet_addr("192.000.0.000"); // aqui debe ir  la IP donde esta el servidor
         direccionServer.sin_family = AF_INET;
 
         int puerto;
