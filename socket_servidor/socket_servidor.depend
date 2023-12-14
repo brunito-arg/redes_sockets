@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1697938166 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes\socket_servidor\servidor.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<sstream>
+	<string>
+	"server.cpp"
+
+1699278618 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes\socket_servidor\server.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<sstream>
+	<string>
+	<regex>
+	<algorithm>
+	<cctype>
+
+1699278618 d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes\socket_servidor\server.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<sstream>
+	<string>
+	<regex>
+	<algorithm>
+	<cctype>
+
+1697938166 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes_massacane\socket_servidor\servidor.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<sstream>
+	<string>
+	"server.cpp"
+
+1699278618 d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes_massacane\socket_servidor\server.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<sstream>
+	<string>
+	<regex>
+	<algorithm>
+	<cctype>
+
+1699275128 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes_massacane\socket_servidor\server.cpp
+	<iostream>
+	<winsock2.h>
+	<fstream>
+	<sstream>
+	<string>
+	<regex>
+	<algorithm>
+	<cctype>
+

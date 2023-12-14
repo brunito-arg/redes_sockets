@@ -1,0 +1,4 @@
+university:universidad
+dog:perro
+cat:gato
+tiger:tigre

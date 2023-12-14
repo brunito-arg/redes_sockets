@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1697938143 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes\socket_cliente\cliente.cpp
+	<iostream>
+	<windows.h>
+	<winsock.h>
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	"client.cpp"
+
+1694459966 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes\socket_cliente\main.cpp
+
+1697938237 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes\socket_cliente\client.cpp
+	<iostream>
+	<windows.h>
+	<winsock.h>
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	<cctype>
+	<ctime>
+
+1697938237 d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes\socket_cliente\client.cpp
+	<iostream>
+	<windows.h>
+	<winsock.h>
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	<cctype>
+	<ctime>
+
+1697938143 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes_massacane\socket_cliente\cliente.cpp
+	<iostream>
+	<windows.h>
+	<winsock.h>
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	"client.cpp"
+
+1699275384 d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes_massacane\socket_cliente\client.cpp
+	<iostream>
+	<windows.h>
+	<winsock.h>
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	<cctype>
+	<ctime>
+
+1699275384 source:d:\bruno\facultad\redes y comunicacion\proyectos\trabajo_redes_massacane\socket_cliente\client.cpp
+	<iostream>
+	<windows.h>
+	<winsock.h>
+	<fstream>
+	<sstream>
+	<string>
+	<limits>
+	<cctype>
+	<ctime>
+
